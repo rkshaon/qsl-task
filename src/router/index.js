@@ -5,8 +5,8 @@ import ProductComponent from '../components/ProductComponent.vue'
 
 const routes = [
     {
-        path: '/',
-        name :'home',
+        path: '',
+        name :'root',
         component: HomeComponent
     },
     {

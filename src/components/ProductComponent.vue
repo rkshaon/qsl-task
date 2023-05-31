@@ -1,5 +1,5 @@
 <template>
-    This is product component.
+    <div class="container">This is product component.</div>    
 </template>
 
 <script>
