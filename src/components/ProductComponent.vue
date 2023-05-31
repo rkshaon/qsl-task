@@ -1,5 +1,7 @@
 <template>
-    <div class="container">This is product component.</div>    
+    <div class="">
+        <div style="height: 100px; background-color: bisque;">Banner goes here.</div>
+    </div>
 </template>
 
 <script>
